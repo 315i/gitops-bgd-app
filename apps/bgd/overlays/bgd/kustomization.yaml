@@ -1,4 +1,4 @@
-namespace: bgd
+namespace: a1bg-ngw-test
 resources:
 - ../../base
 - bgd-ns.yaml
